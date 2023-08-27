@@ -1,0 +1,25 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+}
+.title{
+    padding: 20px;
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 200%;
+    color: aliceblue;
+}
+.content{
+    margin: 100px;
+}
+.footer{
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 20px;
+    position: relatiave;
+    margin-top: 341px;
+}
