@@ -36,7 +36,7 @@
                 <input type="file" class="form-control" id="image" name="image">
             </div>
             <div class="col-md-6">
-                <label for="" class="form-label">Book Name</label>
+                <label for="" class="form-label">Book Names</label>
                 <input type="text" class="form-control" id="name" name="name" value="{{$book->name}}">
             </div>
             <div class="col-12">
